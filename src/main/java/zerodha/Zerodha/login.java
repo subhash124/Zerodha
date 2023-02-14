@@ -19,6 +19,7 @@ public class login {
 	}
 	public void setPAs(String PAS) {
 		pas.sendKeys(PAS);
+		pas.sendKeys(PAS);
 	}
 	public void clickLogin() {
 		click.click();
